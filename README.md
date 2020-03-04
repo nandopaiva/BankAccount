@@ -1,5 +1,5 @@
 # Conta Digital
-Implementação de uma conta bancária com uma arquitetura baseada distribuída baseada em microsserviços.
+Implementação de uma conta digital com uma arquitetura baseada em microsserviços.
 
 ## Arquitetura
 
