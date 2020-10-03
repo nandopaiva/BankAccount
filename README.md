@@ -1,9 +1,9 @@
-# Conta Digital
-Implementação de uma conta digital com uma arquitetura baseada em microsserviços.
+# Digital Account
+implementation of a Digital Account Bank in microsservice based architecture.
 
-## Arquitetura
+## Architecture
 
-### Diagrama de container
+### Container Diagram
 <p align="center">
 <img src="/Arquitetura/diagrama-de-container.png" width="800">
 </p>  
